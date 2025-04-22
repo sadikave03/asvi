@@ -1,0 +1,15 @@
+.ave{
+    height: 400px;
+}
+.savi{
+    display: grid;
+    grid-template-columns: repeat(2,0fr);
+    grid-gap: 100px;
+    margin: 60px;
+}
+.salvi{
+    display: grid;
+    grid-template-columns: repeat(3,3fr);
+    margin: 30px;
+    grid-gap: 30px;
+}
